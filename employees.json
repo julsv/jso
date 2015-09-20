@@ -1,0 +1,40 @@
+[ {
+        _id: 1,
+        name: "Ivan Ivanov",
+        age: 17,
+        address: "kirova street, 15",
+        status: "intern",
+        salary: 1000,
+        canbepromoted: true
+    },
+
+   {
+        _id: 2,
+        name: "Julia Semenova",
+        age: 35,
+        address: "kirova street, 15",
+        status: "senior software developer",
+        salary: 100000,
+        canbepromoted: false
+    },
+
+    {
+        _id: 3,
+        name: "Petr Petrov",
+        age: 28,
+        address: "kirova street, 15",
+        status: "software developer",
+        salary: 50000,
+        canbepromoted: false
+    },
+
+   {
+        _id: 10,
+        name: "Vasiliy Petrovich",
+        age: 56,
+        address: "kirova street, 15",
+        status: "software developer",
+        salary: 50000,
+        canbepromoted: true
+    }
+    ]
